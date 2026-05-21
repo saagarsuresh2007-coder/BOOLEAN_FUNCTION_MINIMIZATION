@@ -1,4 +1,4 @@
-<img width="787" height="712" alt="595769014-1f216247-f4c6-463d-aa4f-5cfde1110dc6" src="https://github.com/user-attachments/assets/2cfd6163-6502-48ab-8af0-9f8ecf4498f0" />AIM:
+AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
