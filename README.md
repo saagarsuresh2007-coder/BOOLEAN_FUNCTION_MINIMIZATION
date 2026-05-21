@@ -58,6 +58,7 @@ endmodule
 ```
 
 RTL realization
+
 <img width="787" height="712" alt="595769014-1f216247-f4c6-463d-aa4f-5cfde1110dc6" src="https://github.com/user-attachments/assets/9654988c-0677-4419-bb96-2e0b89aedf60" />
 
 
